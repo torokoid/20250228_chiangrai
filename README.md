@@ -299,7 +299,7 @@ p.note { display: none; }
 
 <!-- フッタ -->
 <footer>
-<p>Copyright 2025/02/28 alis @ChiangRai</p>
+<p>Copyright 2025/03/01 alis @ChiangRai</p>
 </footer>
 
 <!--HPにさまざまなJavaScriptを呼び込むための書式-->
