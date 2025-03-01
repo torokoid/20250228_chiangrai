@@ -206,7 +206,7 @@ p.note { display: none; }
 <a href="20250228_035.JPG" target="_blank"><img src="20250228_035.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250228_036.JPG" target="_blank"><img src="20250228_036.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">宿泊地に到着、ボストンバック50バーツ、運賃は247バーツで計300バーツ渡しました</span></h2>
+<h2><span class="yellow">宿泊地に到着、スーツケースは50バーツ、運賃は247バーツで計300バーツ渡しました</span></h2>
 <a href="20250228_037.JPG" target="_blank"><img src="20250228_037.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">バンコク初日の夕暮れも綺麗でした</span></h2>
