@@ -152,7 +152,7 @@ p.note { display: none; }
 <a href="20250228_009.JPG" target="_blank"><img src="20250228_009.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250228_010.JPG" target="_blank"><img src="20250228_010.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">チケット番号と乗機者の顔を紐付け</span></h2>
+<h2><span class="yellow">チケット番号と搭乗者の顔を紐付け</span></h2>
 <a href="20250228_011.JPG" target="_blank"><img src="20250228_011.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">民族音楽の実演中でした</span></h2>
