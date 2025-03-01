@@ -193,8 +193,8 @@ p.note { display: none; }
 <h2><span class="yellow">今回の飛行機移動イメージ、1時間で約800Kmの移動です</span></h2>
 <a href="20250228_029.JPG" target="_blank"><img src="20250228_029.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">着陸してから飛行場を出るまでの経路、この移動で30分以上かかります</span></h2>
-<a href="20250228_030.JPG" target="_blank"><img src="20250228_030.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">着陸してから飛行場を出るまでの経路、この移動で30分以上かかります<br>画像クリックでGoogleMapsに飛びます ↓</span></h2>
+<a href="https://www.google.com/maps/@13.6944444,100.739399,12.24z/data=!5m1!1e2?authuser=0&entry=ttu&g_ep=EgoyMDI1MDIyNi4wIKXMDSoJLDEwMjExNDUzSAFQAw%3D%3D" target="_blank"><img src="20250228_030.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">タクシーから見た夕陽は綺麗でした</span></h2>
 <a href="20250228_031.JPG" target="_blank"><img src="20250228_031.JPG" alt="サンプル画像" width="900" /></a>
